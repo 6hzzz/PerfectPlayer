@@ -1,4 +1,4 @@
 PerfectPlayer
 =============
 
-PerfectPlayer - free IPTV/Media player
+PerfectPlayer is free IPTV/Media player
