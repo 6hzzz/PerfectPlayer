@@ -1,6 +1,6 @@
 Perfect Player
 --------------
-**Perfect Player** is free IPTV/Media player, advanced channels manager and playlist generator for XBMC (IPTV-Simple).
+**Perfect Player** is free standalone IPTV/Media player, advanced channels manager and playlist generator for XBMC (IPTV-Simple).
 >*Features:*
 >- Full-featured IPTV/Media player with OSD and the ability to control playing in Fullscreen
 >- The program monitors all your installed logos, EPG, channels groups, and other settings of channels that will not get >lost after updating provider's playlists
