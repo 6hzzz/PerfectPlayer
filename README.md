@@ -16,7 +16,7 @@ Perfect Player
 >- Fully compatible automatic playlist generating for the IPTV-Simple addon (XBMC playlist)
 
 >*Installation:*
->Download and run https://github.com/NikmanSergey/PerfectPlayer/releases]PerfectPlayer_install.exe
+>Download and run https://github.com/NikmanSergey/PerfectPlayer/releases
 
 >*Upgrade:*
 >To save all program and channels settings:
