@@ -4,7 +4,7 @@ Perfect Player
 >*Features:*
 >- Full-featured IPTV/Media player with OSD and the ability to control playing in Fullscreen
 >- The program monitors all your installed logos, EPG, channels groups, and other settings of channels that will not get lost after updating provider's playlists
->- Playlists supported: UDP, HTTP, HTTP-UDP-proxy, TORRENT-TV.RU
+>- Playlists formats supported: M3U, XSPF (UDP, HTTP, HTTP-UDP-proxy, TORRENT-TV.RU)
 >- EPG formats supported: XMTLV and JTV
 >- Setting logos (with preview), program guide (EPG) (manual and auto mapping)
 >- Working with multiple providers playlists and program guides (EPGs) at the same time 
@@ -36,11 +36,12 @@ Perfect Player
 >- Set to use a local EPG file (the same as XBMC EPG XMLTV file) 
 >- Set the folder with logos (the same as the Logos directory) 
 
-*Screenshots:*
+*Screenshots (v0.9.0):*
 ![Settings mode](http://s52.radikal.ru/i137/1407/98/2917581a6d15.png)
 ![Fullscreen mode](http://s020.radikal.ru/i717/1407/b5/be91de693c16.png)
 
 >*Roadmap:*
->- Further IPTV/Media player improvements with all the features for comfortable video viewing in Fullscreen mode
->- Testers are very needed!
+>- Plugins interface development. Let third-party developers to create plugins.
+>- Looking for Java programmers who wants to be involved into project development.
+>- Further IPTV/Media player functions adding and improvements.
 >- Proposals and suggestions are welcome! Please, feedback...
