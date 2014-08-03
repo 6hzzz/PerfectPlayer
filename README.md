@@ -3,8 +3,10 @@ Perfect Player
 **Perfect Player** is free standalone IPTV/Media player, advanced channels manager and playlist generator for XBMC (IPTV-Simple).
 >*Features:*
 >- Full-featured IPTV/Media player with OSD and the ability to control playing in Fullscreen
->- The program monitors all your installed logos, EPG, channels groups, and other settings of channels that will not get lost after updating provider's playlists
+>- Scalable OSD - video and OSD menus renders correctly with any window size and resolution
+>- The program monitors all installed logos, EPG, channels groups, and other settings of channels that will not get lost after provider's playlists updating
 >- Playlists formats supported: M3U, XSPF (UDP, HTTP, HTTP-UDP-proxy, TORRENT-TV.RU)
+>- udpxy support (watching, scanning, playlist generating)
 >- EPG formats supported: XMTLV and JTV
 >- Setting logos (with preview), program guide (EPG) (manual and auto mapping)
 >- Working with multiple providers playlists and program guides (EPGs) at the same time 
@@ -19,7 +21,7 @@ Perfect Player
 >Download and run https://github.com/NikmanSergey/PerfectPlayer/releases
 
 >*Upgrade:*
->To save all program and channels settings:
+>To guaranteed save all program and channels settings:
 >- Before installing save the settings in a separate file (Save settings)
 >- After the upgrade, restore settings (Restore settings)
 
@@ -36,9 +38,9 @@ Perfect Player
 >- Set to use a local EPG file (the same as XBMC EPG XMLTV file) 
 >- Set the folder with logos (the same as the Logos directory) 
 
-*Screenshots (v0.9.0):*
-![Settings mode](http://s52.radikal.ru/i137/1407/98/2917581a6d15.png)
-![Fullscreen mode](http://s020.radikal.ru/i717/1407/b5/be91de693c16.png)
+*Screenshots (v0.9.8):*
+![Settings mode](http://s019.radikal.ru/i619/1408/b5/2a8510f74fe4.png)
+![Fullscreen mode](http://s09.radikal.ru/i182/1408/96/9b29ce858d68.png)
 
 >*Roadmap:*
 >- Plugins interface development. Let third-party developers to create plugins.
