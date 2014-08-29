@@ -3,6 +3,7 @@ Perfect Player
 **Perfect Player** is free standalone IPTV/Media player, advanced channels manager and playlist generator for XBMC (IPTV-Simple).
 >*Features:*
 >- Full-featured IPTV/Media player with OSD and the ability to control playing in Fullscreen
+>- Video plug-ins supported (*ex.ua* plug-in bundled)
 >- Multilanguage support (english, russian, ask for more...)
 >- Scalable OSD - video and OSD menus renders correctly with any window size and resolution
 >- The program monitors all installed logos, EPG, channels groups, and other settings of channels that will not get lost after provider's playlists updating
@@ -44,7 +45,6 @@ Perfect Player
 ![Fullscreen mode](http://s09.radikal.ru/i182/1408/96/9b29ce858d68.png)
 
 >*Roadmap:*
->- Plugins interface development. Let third-party developers to create plugins.
 >- Looking for Java programmers who wants to be involved into project development.
 >- Further IPTV/Media player functions adding and improvements.
 >- Proposals and suggestions are welcome! Please, feedback...
