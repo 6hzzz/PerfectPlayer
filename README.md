@@ -27,6 +27,9 @@ Perfect Player
 >- Before installing save the settings in a separate file (Save settings)
 >- After the upgrade, restore settings (Restore settings)
 
+>*For plug-ins developers:*
+>https://github.com/NikmanSergey/Plugin-ex.ua
+
 >*Initial settings:*
 >- Add Provider's playlist URLs
 >- Add EPG URLs
