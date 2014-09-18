@@ -27,6 +27,9 @@ Perfect Player
 >- Before installing save the settings in a separate file (Save settings)
 >- After the upgrade, restore settings (Restore settings)
 
+>*Video review:*
+>https://www.youtube.com/watch?v=2LbTQHF4Q44
+
 >*For plug-ins developers:*
 >https://github.com/NikmanSergey/Plugin-ex.ua
 
