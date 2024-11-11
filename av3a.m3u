@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="cctv.png" group-title="YSP",奥林匹克ᵁᴴᴰ⁴ᴷᵛⁱᵛⁱᵈ
+http://192.168.233.200:35455/ysptp/cctv4k16.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="cctv.png" group-title="YSP",CCTV4Kᵁᴴᴰ⁴ᴷᵛⁱᵛⁱᵈ
+http://192.168.233.200:35455/ysptp/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="cctv.png" group-title="YSP",CCTV8Kᵁᴴᴰ⁴ᴷᵛⁱᵛⁱᵈ
+http://192.168.233.200:35455/ysptp/cctv8k_36m.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="cctv.png" group-title="YSP",CCTV8Kᵁᴴᴰ⁴ᴷᵛⁱᵛⁱᵈ
+http://192.168.233.200:35455/ysptp/cctv8k_60m.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="cctv.png" group-title="YSP",CCTV8Kᵁᴴᴰ⁸ᴷᵛⁱᵛⁱᵈ
+http://192.168.233.200:35455/ysptp/cctv8k_120m.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="cctv.png" group-title="YSP",央视体育ᵛⁱᵛⁱᵈ
+http://liveali-audiovivid.5club.cctv.cn/live/CCTV5H/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="cctv.png" group-title="YSP",央视体育ᵛⁱᵛⁱᵈ
+http://liveali-audiovivid.5club.cctv.cn/live/CCTV16H/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="cctv.png" group-title="YSP",CCTV8Kᵁᴴᴰ⁴ᴷᵛⁱᵛⁱᵈ
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="cctv.png" group-title="YSP",CCTV8Kᵁᴴᴰ⁸ᴷᵛⁱᵛⁱᵈ
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
