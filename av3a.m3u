@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1,HLG BT.2111
+#EXTINF:118 group-title="Video",HLG BT.2111
 https://github.com/6hzzz/vapoursynth-colorbars/releases/download/1.0/HLGCB4K50p.mp4
-#EXTINF:-1,PQ BT.2111
+#EXTINF:16 group-title="Video",PQ BT.2111
 https://github.com/6hzzz/vapoursynth-colorbars/releases/download/1.0/PQCB4K50p.mp4
-#EXTINF:-1,CCTV3
-http://39.134.13.35:6610/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,CCTV4
-http://39.134.13.35:6610/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,CCTV5
-http://39.134.13.35:6610/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,CCTV6
-http://39.134.13.35:6610/180000001001/00000001000000001001000000000054/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,CCTV7
-http://39.134.13.35:6610/180000001001/00000001000000001001000000000055/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,CCTV8
-http://39.134.13.35:6610/180000001001/00000001000000001001000000000056/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,CCTV9
-http://39.134.13.35:6610/180000001001/00000001000000001001000000000057/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:112 group-title="Video",Video 3
+http://msx.benzac.de/media/video3.mp4
+#EXTINF:-1 group-title="YouTube",YouTube Video
+plugin:http://msx.benzac.de/plugins/youtube.html?id=7zzk-8Id8O8
+#EXTINF:-1 group-title="Vimeo",Vimeo Video
+plugin:http://msx.benzac.de/plugins/vimeo.html?id=266855486
+#EXTINF:-1 group-title="Sublist",Video Sublist (M3U)
+http://msx.benzac.de/info/data/m3u/videos.m3u
+#EXTINF:-1 group-title="Sublist",Video Sublist (PLS)
+http://msx.benzac.de/info/data/pls/videos.pls
